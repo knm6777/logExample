@@ -1,0 +1,146 @@
+{
+  "instant" : {
+    "epochSecond" : 1697178748,
+    "nanoOfSecond" : 531890500
+  },
+  "thread" : "http-nio-8080-exec-1",
+  "level" : "DEBUG",
+  "loggerName" : "collect",
+  "message" : "homeController ==============",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 46,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1697178831,
+    "nanoOfSecond" : 815324600
+  },
+  "thread" : "http-nio-8080-exec-2",
+  "level" : "DEBUG",
+  "loggerName" : "collect",
+  "message" : "homeController ==============",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 47,
+  "threadPriority" : 5
+}
+{"timeMillis":1697179462380,"thread":"http-nio-8080-exec-1","level":"DEBUG","loggerName":"collect","message":"homeController ==============","endOfBatch":false,"loggerFqcn":"org.apache.logging.log4j.spi.AbstractLogger","contextMap":{"keyy":"valuee"},"threadId":47,"threadPriority":5}
+{"timeMillis":1697181190130,"thread":"http-nio-8080-exec-2","level":"DEBUG","loggerName":"collect","message":"homeController ==============","endOfBatch":false,"loggerFqcn":"org.apache.logging.log4j.spi.AbstractLogger","contextMap":{"keyy":"valuee"},"threadId":47,"threadPriority":5,"timestamp":"2023-10-13T16:13:10.130+0900"}
+{
+  "timeMillis" : 1697181403663,
+  "thread" : "http-nio-8080-exec-1",
+  "level" : "DEBUG",
+  "loggerName" : "collect",
+  "message" : "homeController ==============",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "contextMap" : { },
+  "threadId" : 46,
+  "threadPriority" : 5,
+  "timestamp" : "2023-10-13T16:16:43.663+0900"
+}
+{
+  "timeMillis" : 1697181403712,
+  "thread" : "http-nio-8080-exec-1",
+  "level" : "DEBUG",
+  "loggerName" : "collect",
+  "message" : "{\"myKey\":\"myValue\"}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "contextMap" : { },
+  "threadId" : 46,
+  "threadPriority" : 5,
+  "timestamp" : "2023-10-13T16:16:43.712+0900"
+}
+{
+  "timeMillis" : 1697181672230,
+  "thread" : "http-nio-8080-exec-1",
+  "level" : "DEBUG",
+  "loggerName" : "collect",
+  "message" : "homeController ==============",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "contextMap" : {
+    "myKey" : "myValue"
+  },
+  "threadId" : 46,
+  "threadPriority" : 5,
+  "timestamp" : "2023-10-13T16:21:12.230+0900"
+}
+{
+  "timeMillis" : 1697181785093,
+  "thread" : "http-nio-8080-exec-2",
+  "level" : "DEBUG",
+  "loggerName" : "collect",
+  "message" : "homeController ==============",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "contextMap" : {
+    "myKey" : "myValue"
+  },
+  "threadId" : 47,
+  "threadPriority" : 5,
+  "timestamp" : "2023-10-13T16:23:05.093+0900"
+}
+{
+  "timeMillis" : 1697182062802,
+  "thread" : "http-nio-8080-exec-2",
+  "level" : "DEBUG",
+  "loggerName" : "collect",
+  "message" : "homeController ==============",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "contextMap" : {
+    "myKey" : "myValue"
+  },
+  "threadId" : 47,
+  "threadPriority" : 5,
+  "timestamp" : "2023-10-13T16:27:42.802+0900"
+}
+{
+  "timeMillis" : 1697182095818,
+  "thread" : "http-nio-8080-exec-3",
+  "level" : "DEBUG",
+  "loggerName" : "collect",
+  "message" : "ddjdjdjdjdjdjdjdj",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "contextMap" : {
+    "myKey" : "myValue"
+  },
+  "threadId" : 48,
+  "threadPriority" : 5,
+  "timestamp" : "2023-10-13T16:28:15.818+0900"
+}
+{
+  "timeMillis" : 1697182115160,
+  "thread" : "http-nio-8080-exec-2",
+  "level" : "DEBUG",
+  "loggerName" : "collect",
+  "message" : "ddjdjdjdjdjdjdjdj",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "contextMap" : {
+    "mey" : "myue"
+  },
+  "threadId" : 48,
+  "threadPriority" : 5,
+  "timestamp" : "2023-10-13T16:28:35.160+0900"
+}
+{
+  "timeMillis" : 1697182121734,
+  "thread" : "http-nio-8080-exec-3",
+  "level" : "DEBUG",
+  "loggerName" : "collect",
+  "message" : "homeController ==============",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "contextMap" : {
+    "myKey" : "myValue"
+  },
+  "threadId" : 49,
+  "threadPriority" : 5,
+  "timestamp" : "2023-10-13T16:28:41.734+0900"
+}

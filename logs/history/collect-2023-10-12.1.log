@@ -1,0 +1,7 @@
+{"actionName": "Some_User_Action",
+"responses": [{"code": "1000", "count": "36"},
+              {"code": "1001", "count": "6"},
+              {"code": "1002", "count": "3"},
+              {"code": "1003", "count": "36"},
+              {"code": "1004", "count": "2"}],
+"totalActionCount": "83"}
